@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="intro_Justin">Hello World! My Name is Justin Lo and I think turtles are one of the coolest animals!</string>
+    <string name="button_text">Hello there!</string>
+</resources>
